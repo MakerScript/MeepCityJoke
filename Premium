@@ -1,1 +1,8 @@
-print("NOT LOL")
+local User = {
+    [1699124209] = true,
+    [1873453313] = true,
+    [1976184447] = true,
+    [1758543757] = true,
+    [469653868] = true,
+}
+return User
